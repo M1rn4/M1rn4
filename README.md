@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/81875032/209754570-7c6bec96-5eed-4b63-b247-d85309a6c63d.mp4
+![Mirna Ampuero(3)](https://github.com/M1rn4/M1rn4/assets/81875032/a7127efe-038c-47fa-9c33-79905836b433)
 
 <h1 align="center">Hi 👋, I'm Mirna Ampuero</h1>
 <h3 align="center">A passionate full-stack-developer interested in:</h3>
