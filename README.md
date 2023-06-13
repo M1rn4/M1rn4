@@ -1,4 +1,5 @@
-![Mirna Ampuero(3)](https://github.com/M1rn4/M1rn4/assets/81875032/a7127efe-038c-47fa-9c33-79905836b433)
+
+![Uploading Mirna Ampuero(3).png…]()
 
 <h1 align="center">Hi 👋, I'm Mirna Ampuero</h1>
 <h3 align="center">A passionate full-stack-developer interested in:</h3>
